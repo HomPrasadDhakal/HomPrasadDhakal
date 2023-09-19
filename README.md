@@ -14,6 +14,18 @@ I'm Hom Prasad Dhakal, currently working in web development, with a primary focu
 ![React.js](https://img.shields.io/badge/Framework-React.js-blue)
 ![API](https://img.shields.io/badge/API-Yes-brightgreen)
 
+## My Favorite Tools:
+![VSCode](https://img.shields.io/badge/Editor-VSCode-blue)
+![Git & GitHub](https://img.shields.io/badge/Version%20Control-Git%20%26%20GitHub-lightgrey)
+![Jira](https://img.shields.io/badge/Issue%20Tracking-Jira-blue)
+![Trello](https://img.shields.io/badge/Project%20Management-Trello-green)
+![Linux Ubuntu](https://img.shields.io/badge/Platform-Linux%20Ubuntu-orange)
+![Postman](https://img.shields.io/badge/API%20Development-Postman-orange)
+
+
+
+
+
 
 
 
