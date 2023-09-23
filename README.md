@@ -11,6 +11,10 @@ I'm Hom Prasad Dhakal, currently working in web development, with a primary focu
 [![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat)](https://www.djangoproject.com/)
 [![DRF](https://img.shields.io/badge/Django_REST_Framework-FF1709?logo=django&logoColor=white&style=flat)](https://www.django-rest-framework.org/)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=flat)](https://swagger.io/)
+![SQLite](https://img.shields.io/badge/Database-SQLite-blue)
+
+
+
 
 
 ## My Favorite Tools:
