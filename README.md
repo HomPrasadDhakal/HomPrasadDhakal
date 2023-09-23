@@ -2,12 +2,16 @@
 
 I'm Hom Prasad Dhakal, currently working in web development, with a primary focus on backend API development. I work with technologies like Python, Django, Django Rest Framework, and FastAPI. I'm also proficient in various databases, including MySQL, PostgreSQL, and SQLite.
 ## Technologies I am proficient in:
-[![Django Version](https://img.shields.io/badge/Django-blue.svg)](https://www.djangoproject.com/)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Django Rest Framework](https://img.shields.io/badge/Django%20Rest%20Framework-3.12-green)
+
+
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
 ![API](https://img.shields.io/badge/API-Yes-brightgreen)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat)](https://www.djangoproject.com/)
+[![DRF](https://img.shields.io/badge/Django_REST_Framework-FF1709?logo=django&logoColor=white&style=flat)](https://www.django-rest-framework.org/)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=flat)](https://swagger.io/)
+
 
 ## My Favorite Tools:
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-blue)
