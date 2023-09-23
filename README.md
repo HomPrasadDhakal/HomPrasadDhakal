@@ -4,14 +4,14 @@ I'm Hom Prasad Dhakal, currently working in web development field, with a primar
 ## Technologies I am proficient in:
 
 
-![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
-![API](https://img.shields.io/badge/API-Yes-brightgreen)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat)](https://www.djangoproject.com/)
 [![DRF](https://img.shields.io/badge/Django_REST_Framework-FF1709?logo=django&logoColor=white&style=flat)](https://www.django-rest-framework.org/)
+![API](https://img.shields.io/badge/API-Yes-brightgreen)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=flat)](https://swagger.io/)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-blue)
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
 
 
 
