@@ -8,7 +8,7 @@ I'm Hom Prasad Dhakal, currently working in web development field, with a primar
 [![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat)](https://www.djangoproject.com/)
 [![DRF](https://img.shields.io/badge/Django_REST_Framework-FF1709?logo=django&logoColor=white&style=flat)](https://www.django-rest-framework.org/)
 <a href="#">
-  <img src="https://img.shields.io/badge/HTML-CSS-ff69b4" alt="HTML Templates">
+  <img src="https://img.shields.io/badge/HTML5-CSS3-ff69b4" alt="HTML Templates">
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/Jinja 2-DTL-ff69b4" alt="HTML Templates">
