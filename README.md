@@ -7,6 +7,12 @@ I'm Hom Prasad Dhakal, currently working in web development field, with a primar
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat)](https://www.djangoproject.com/)
 [![DRF](https://img.shields.io/badge/Django_REST_Framework-FF1709?logo=django&logoColor=white&style=flat)](https://www.django-rest-framework.org/)
+<a href="#">
+  <img src="https://img.shields.io/badge/HTML-CSS-ff69b4" alt="HTML Templates">
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Jinja 2-ff69b4" alt="HTML Templates">
+</a>
 ![API](https://img.shields.io/badge/API-Yes-brightgreen)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=flat)](https://swagger.io/)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-blue)
