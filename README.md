@@ -11,7 +11,7 @@ I'm Hom Prasad Dhakal, currently working in web development field, with a primar
   <img src="https://img.shields.io/badge/HTML-CSS-ff69b4" alt="HTML Templates">
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Jinja 2-ff69b4" alt="HTML Templates">
+  <img src="https://img.shields.io/badge/Jinja 2-DTL-ff69b4" alt="HTML Templates">
 </a>
 ![API](https://img.shields.io/badge/API-Yes-brightgreen)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=flat)](https://swagger.io/)
